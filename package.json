@@ -1,0 +1,25 @@
+{
+  "name": "deload",
+  "version": "1.0.0",
+  "description": "Dynamically load scripts & stylesheets when required.",
+  "main": "index.js",
+  "repository": "git@github.com:neilveil/deload.git",
+  "scripts": {
+    "build": "rimraf dist && tsc"
+  },
+  "keywords": [
+    "dynamic-loading",
+    "lazy-loading",
+    "lightweight-build",
+    "load-time-optimization",
+    "performance-enhancement",
+    "web-development",
+    "web-performance"
+  ],
+  "author": "neilveil",
+  "license": "MIT",
+  "devDependencies": {
+    "rimraf": "^5.0.4",
+    "typescript": "^5.2.2"
+  }
+}
