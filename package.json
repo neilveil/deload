@@ -1,6 +1,6 @@
 {
   "name": "deload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dynamically load scripts & stylesheets when required.",
   "main": "index.js",
   "repository": "git@github.com:neilveil/deload.git",
