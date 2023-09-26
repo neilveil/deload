@@ -12,6 +12,12 @@
 - **📦 Small build size:** By dynamically loading resources, Deload keeps your application's build size lean, preventing unnecessary bloat and optimizing resource usage.
 - **🎯 Event-based system:** Get complete control over resource loading events, ensuring seamless integration and flexibility in your projects.
 
+## Installation
+
+```bash
+npm i deload
+```
+
 ## Usage examples
 
 ```js
