@@ -4,6 +4,8 @@
   "description": "Dynamically load scripts & stylesheets when required.",
   "main": "dist/index.js",
   "repository": "git@github.com:neilveil/deload.git",
+  "author": "neilveil",
+  "license": "MIT",
   "scripts": {
     "build": "rimraf dist && tsc"
   },
@@ -16,8 +18,6 @@
     "web-development",
     "web-performance"
   ],
-  "author": "neilveil",
-  "license": "MIT",
   "devDependencies": {
     "rimraf": "^5.0.4",
     "typescript": "^5.2.2"
